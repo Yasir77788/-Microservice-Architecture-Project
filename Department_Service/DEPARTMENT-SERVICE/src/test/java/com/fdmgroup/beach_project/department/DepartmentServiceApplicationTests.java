@@ -1,4 +1,4 @@
-package com.fdmgroup.beach_project.department;
+package com.microservice_project.department;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
